@@ -1,38 +1,39 @@
 # The IT World
 
+
 ## Team Profile
+### Ideal Jobs
 
-#Ideal Jobs
+### Personality Test Results
 
-#Personality Test Results
+### Personal Information
 
-#Personal Information
 
 
 ## Industry Data
 
 
+
 ## IT Work
 
 
+
 ## IT Technologies 
+### ??? 
 
-#??? 
+### Machine Learning
 
-#Machine Learning
+### Cybersecurity
 
-#Cybersecurity
-
-#Autonomous Vehicles
-
+### Autonomous Vehicles
 
 
 
 ## Project Idea
 
 
+
 ## Group Reflection
+### Individual Reflection
 
-#Individual Reflection
-
-#Group Reflection
+### Group Reflection
