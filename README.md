@@ -4,42 +4,42 @@
 
 ### Personal Information
 
-**Aditya
-**Student Number- s3733790
-**Personal website- https://aditya-dutta.github.io
+**Aditya**
+**Student Number- s3733790**
+[Personal website] (https://aditya-dutta.github.io)
 
 
-**Sophie
-**Student Number- s3742024
-**Personal website- https://sophiesha.github.io
+**Sophie**
+**Student Number- s3742024**
+[Personal website] (https://sophiesha.github.io)
 
 
-**Wenshuo
-**Student Number- s3729628
-**Personal website- https://yukiwang3729628.github.io
+**Wenshuo**
+**Student Number- s3729628**
+[Personal website] (https://yukiwang3729628.github.io)
 
 
-**Denise
-**Student Number- s3719547
-**Personal website- https://denbp.github.io
+**Denise**
+**Student Number- s3719547**
+[Personal website] (https://denbp.github.io)
 
 
-**Thanh
-**Student Number- s3743935
-**Personal website- https://thanhq1024.github.io
+**Thanh**
+**Student Number- s3743935**
+[Personal website] (https://thanhq1024.github.io)
 
 
 ### Personality Test Results
 
-**Aditya 
+**Aditya** 
 
-**Sophie
+**Sophie**
 
-**Wenshuo
+**Wenshuo**
 
-**Denise
+**Denise**
 
-**Thanh
+**Thanh**
 
 
 
@@ -97,19 +97,19 @@
 
 ### Individual Reflection
 
-**Aditya 
+**Aditya**
 
 
-**Sophie
+**Sophie**
 
 
-**Wenshuo
+**Wenshuo**
 
 
-**Denise
+**Denise**
 
 
-**Thanh
+**Thanh**
 
 
 ### Group Reflection
