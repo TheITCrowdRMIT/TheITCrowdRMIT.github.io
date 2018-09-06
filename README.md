@@ -84,10 +84,10 @@ He usually works with other IT professionals, technical experts and client sites
 
 IT project manager is the first responsible person for the entire project. So he spend most of time on the following parts.
  
-Managing and controlling the quality and progress of the entire project. Analyzing deviations and taking corrective actions.
-Organizing the requirements analysis work and organizing the review of the requirements document and the requirements change document.
-Distributing system design task for his project team members.
-Organizing project development team meetings and preparing meeting minutes. Analyzing and solving difficult and suspect problems to ensure full communication between members of the group.
+1. Managing and controlling the quality and progress of the entire project. Analyzing deviations and taking corrective actions.
+2. Organizing the requirements analysis work and organizing the review of the requirements document and the requirements change document.
+3. Distributing system design task for his project team members.
+4. Organizing project development team meetings and preparing meeting minutes. Analyzing and solving difficult and suspect problems to ensure full communication between members of the group.
 
 
 **What aspect of their position is most challenging?**
