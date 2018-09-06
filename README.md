@@ -68,7 +68,7 @@
 
 ## IT Work
 
-**Interview **
+**Interview an IT Professional**
 
 **What kind of work is done by the IT professional?**
 
