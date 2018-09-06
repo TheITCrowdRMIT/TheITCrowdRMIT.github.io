@@ -5,8 +5,8 @@
 ### Personal Information
 
 **Aditya**
--**Student Number: s3733790**
--**Personal website**: https://aditya-dutta.github.io
+-s3733790
+-https://aditya-dutta.github.io
 
 
 **Sophie**
