@@ -68,6 +68,33 @@
 
 ## IT Work
 
+**Interview **
+
+**What kind of work is done by the IT professional?**
+
+Bing is an IT project manager who works in a place called “Big Data”. He said this is a profession in which rights and responsibilities coexist. In his daily work, he conducts background investigations on the project, collect and collate relevant materials, conduct demand planning, write project investigation reports and information summaries, conduct complete system design for project components or modules, contact project related units and relevant technical experts, formulate project feasibility, and collaboratively cooperate to formulate and declare the project report materials.
+
+
+**What kind of people does the IT professional interact with?**
+
+He usually works with other IT professionals, technical experts and client sites if it’s necessary. The project manager must effectively control all aspects of project development, assist and guide the work of project team members, identify and deal with problems in the project in a timely manner, and make a reasonable evaluation of the work of the project team members.  In addition, he has to maintain good communication with client site to ensure that everyone's efforts are on the right way. 
+
+
+**Where does the IT professional spend most of their time?**
+
+IT project manager is the first responsible person for the entire project. So he spend most of time on the following parts.
+ 
+Managing and controlling the quality and progress of the entire project. Analyzing deviations and taking corrective actions.
+Organizing the requirements analysis work and organizing the review of the requirements document and the requirements change document.
+Distributing system design task for his project team members.
+Organizing project development team meetings and preparing meeting minutes. Analyzing and solving difficult and suspect problems to ensure full communication between members of the group.
+
+
+**What aspect of their position is most challenging?**
+
+Bing said that being an IT project manager, you are not only required to have the relevant knowledge of  IT products and computer science, you also need to have practical work experience in IT industry technology development and project management, have good language skills, communication skills, coordination skills, and good organizing, coordination and management skills, etc. 
+
+As a manager, he said the most challenging part is that he must have a macro perspective of the whole project rather than focus on only one part. For example, how to allocate resources such as personnel in the group as needed and establish internal management and communication mechanisms of the project team according to project specifications are. Another challenging thing for him is that clients always change their minds very frequently.
 
 
 
