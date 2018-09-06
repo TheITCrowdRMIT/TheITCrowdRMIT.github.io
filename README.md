@@ -1,10 +1,45 @@
 # The IT World
 
-
 ## Team Profile
-### Ideal Jobs
+
+### Personal Information
+
+**Aditya
+**Student Number- s3733790
+**Personal website- https://aditya-dutta.github.io
+
+
+**Sophie
+**Student Number- s3742024
+**Personal website- https://sophiesha.github.io
+
+
+**Wenshuo
+**Student Number- s3729628
+**Personal website- https://yukiwang3729628.github.io
+
+
+**Denise
+**Student Number- s3719547
+**Personal website- https://denbp.github.io
+
+
+**Thanh
+**Student Number- s3743935
+**Personal website- https://thanhq1024.github.io
+
 
 ### Personality Test Results
+
+**Aditya 
+
+**Sophie
+
+**Wenshuo
+
+**Denise
+
+**Thanh
 
 
 
@@ -21,7 +56,9 @@
 **Thanh** is a INFP-T personality type which means he has great perception of things which is a good asset for a group member.He also has great intuition which combined with his perception makes a really good mix.
 
 
-### Personal Information
+### Ideal Jobs
+
+
 
 
 
@@ -29,18 +66,25 @@
 
 
 
+
 ## IT Work
 
 
 
+
 ## IT Technologies 
+
 ### Blockchain and Cryptocurrency
+
 
 ### Machine Learning
 
+
 ### Cybersecurity
 
+
 ### Autonomous Vehicles
+
 
 
 
@@ -48,7 +92,27 @@
 
 
 
+
 ## Group Reflection
+
 ### Individual Reflection
 
+**Aditya 
+
+
+**Sophie
+
+
+**Wenshuo
+
+
+**Denise
+
+
+**Thanh
+
+
 ### Group Reflection
+
+
+
