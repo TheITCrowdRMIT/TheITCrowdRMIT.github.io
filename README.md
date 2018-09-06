@@ -4,9 +4,7 @@
 
 ### Personal Information
 
-**Aditya**
--s3733790
--https://aditya-dutta.github.io
+**Aditya  s3733790 - Personal website**: https://aditya-dutta.github.io
 
 
 **Sophie**
