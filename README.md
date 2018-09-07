@@ -7,24 +7,67 @@
 **Aditya  (s3733790)**
 - **Personal website**: https://aditya-dutta.github.io
 
+**Background**- I was born and brought up in India.I actually used to live in the most liveable city in India called Pune which is a huge part of my life.I used to go to school at “The Bishop’s CO-ED School” which was regarded as the best school in the city and then for Junior College,I went to “The Lexicon International School” where I have spent some of the best days of my life.
+
+**Hobbies**- I love Tennis,I am a huge Rafael Nadal fan.I am pretty good at the sport along with many other sports as well like Football,Cricket and Table Tennis along with great passion for Pool and Monopoly.
+
+**Interest in IT**- My interest in IT is too learn and understand how things work.We are all living in a tech-savvy world and so it's really important to understand and know what is happening everyday rather than just living blindly all the time.
+My interest in IT started when I first wrote a program in Java BlueJ in the ninth grade.It really took me by surprise that the simple code that I wrote could produce vast results.
+
+**IT Experience**- I had a 12th grade project in which my topic was to create a java program for an Airline Ticket booking system which was also backed up by SQL and I did a pretty decent job considering my group mates were no help at all and I should have charged them.
+
 
 
 **Sophie  (s3742024)**
 - **Personal website**: https://sophiesha.github.io
+
+**Background**- I moved to Australia 8 years ago after I finished my Bachelor degree of management in China. In the new country I became an early childhood educator and I enjoyed my work so much, but unfortunately I had to change my career direction due to my recent unexpected back injury. So I decided to come back to university to study something that has more potential job opportunities in future.
+
+**Hobbies**- I am a self taught artist. I have been learning drawing, watercolor painting for a couple years. In the past year I also started to learn piano through home tutor and YouTube videos.  Recently, I began to design and make my own leather products, so far I already made myself a nice leather purse, a handbag and a backpack and plenty of other leather presents for my family and friends.
+
+**Interest in IT**- I am interested in developing mobile applications with good UI/UX design that can make our everyday life more efficient and convenient. I chose RMIT as my university because I believe that RMIT is a great place to do IT related studies as it has very good reputation in Australian IT industry. During the study at RMIT, I expect to learn heaps of up-to-date IT knowledge and useful programming skills, and eventually become a real IT professional in the industry.
+
+**IT Experience**- Except the basic computer and internet knowledge, I don't really have much experience in IT. I am a fresh beginner in this industry.
 
 
 
 **Wenshuo  (s3729628)**
 - **Personal website**: https://yukiwang3729628.github.io
 
+**Background**- My Nationality is Chinese and I can speak in two languages, English and Mandarin. I did my foundation program in Eynesbury College, Diploma of Commerce in Griffith College and currently I am pursuing Bachelor of IT at RMIT University.
+
+**Hobbies**- I used to be a professional aerobic gymnast when I was in high school, and I achieved ‘national level athlete’ title in China. Occasionally I would do some volunteer jobs that organised by Australian churches as a dance coach to help with training children.I am really interested in skin care and beauty treatment, so I enrolled in the cert III of Beauty Service as my part time course. I have been studying towards it currently in order to gain more professional skills and improve myself.
+								
+**Interest in IT**- My parents both are engaged in the IT industry. They had a great influence on me, as they often tell me IT tips and interesting things when they work at home. That is the primary experience of IT for me. The subtle influence of the family environment sparked my interest of IT, and that is the main reason why I chose information technology as my major in university program.    
+    
+**IT Experience** -  In my high school, I have completed lots of technology related tasks that include making PPT for presentation, publishing advertisements and organizing activities on our student website. I’m familiar with using Microsoft officework, CSS, Wix,Photoshop, WordPress and Adobe Illustrator.
+
+
 
 **Denise  (s3719547)**
 - **Personal website**: https://denbp.github.io
  
- 
+**Background**- I'm an Australian citizen, but I was actually born and raised in the Philippines till I was 9. This is my first year at RMIT and at university in general.
+I'm actually quite a huge gamer and it is one of my motivators. I also love writing narratives. I love creating worlds and characters and storylines to see how everything and everyone grows. My imagination runs wild!
+
+**Hobbies**- As someone who’s passionate about video games, of course I’d play them a lot. I also like trying on different styles of makeup and costume-making. I also like photography and video filming.
+
+**Interest in IT**- I’ve always been interested in IT especially video games because I’ve been surrounded with technology from an early childhood and my mother worked at an I.T-based university. My love of both technology and video games got me to try out I.T and programming, and I would love to learn more and have it in my skill set, since I know it will be very useful for my dream job.
+
+**IT Experience**- I’ve played around with HTML plenty of times before, usually for adjusting website layouts.
+
+
 
 **Thanh  (s3743935)**
 - **Personal website**: https://thanhq1024.github.io
+
+**Background**- I am Vietnamese/Chinese Australian. I was actually born in Saigon, Vietnam, and moved to Australia in the year 2000, so I’ve been living in Australia as a citizen for the past 18 years. This is my first year at RMIT, though I came from doing the Bachelor of Psychology (Honours) at Monash University the previous year, switching from studying psychology to studying IT.
+
+**Hobbies**- My hobbies include playing badminton on weekends, building plastic model kits of ‘Gundam’ mecha-robots, and playing video games whenever I can! (Have to shorten the growing stack of games somehow, right?) 
+
+**Interest in IT**- If there had to be an interest for me in IT, it would have to be software development. I have always been interested in IT, since video games were, and still are a big part of my life. The actual reason that I wanted to go into IT was mainly derived from being in my year 12 software development class. Something about the way that my teacher at the time, Mr. Cooper, taught the class, and realizing how much fun coding was to me. 
+
+**IT Experience**- Apart from taking Software Development as a year 12 unit, other experience I have in IT is next to nothing, having only taken a class in HTML & CSS, and whatever I have learnt so far studying the Bachelor of Information Technology here at RMIT University.
 
 
 
