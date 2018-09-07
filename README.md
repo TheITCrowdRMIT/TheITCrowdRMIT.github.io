@@ -135,7 +135,7 @@ IT project manager is the first responsible person for the entire project. So he
 
 **What aspect of their position is most challenging?**
 
-Bing said that being an IT project manager, you are not only required to have the relevant knowledge of  IT products and computer science, you also need to have practical work experience in IT industry technology development and project management, have good language skills, communication skills, coordination skills, and good organizing, coordination and management skills, etc. 
+Bing said that being an IT project manager, you are not only required to have the relevant knowledge of  IT products and computer science, you also need to have practical work experience in IT industry technology development and project management, have good language skills, communication skills, coordination skills, organizing and management skills, etc. 
 
 As a manager, he said the most challenging part is that he must have a macro perspective of the whole project rather than focus on only one part. For example, how to allocate resources such as personnel in the group as needed and establish internal management and communication mechanisms of the project team according to project specifications are. Another challenging thing for him is that clients always change their minds very frequently.
 
