@@ -106,6 +106,34 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 ## Industry Data
 
+The job titles of the group’s ideal jobs are of the following: Web Developer, UX Designer, Systems and Networks Administrator (shortened to Systems Administrator for Burning Glass data), Video Game Designer (generalised to Graphic Designer for Burning Glass data) and Software and Game Developer (shortened to Software Developer for Burning Glass data).
+
+As of March 2018, there is the highest demand for Graphic Designers among these job titles, followed by: Systems Administrators, Web Developers, Software Developers and UX Designers, in that order. This is the same compared to data from February 2018. Although, compared to May 2017, the demands for each job title are vastly different. In order, there is a high demand for Software Developers, followed by: Graphic Designers, UX Designers, Web Developers and Systems Administrator.
+
+This shows that employers are starting to have a bigger need for Systems Administrators, especially compared to last year, while there is not much demand for UX Designers. According to data from March 2018, UX Designers ranked the fifth lowest in terms of demand from employers.
+
+
+The group’s required general skill set are as follows:
+-	Problem-solving skills
+-	Time management
+-	Leadership
+-	Creativity
+-	Communication skills
+-	Decision-making skills
+The group’s required IT-specific skill set are as follows:
+-	SQL
+-	Javascript
+-	Microsoft Windows
+-	Graphic Design
+-	HTML5
+-	CSS3
+
+From data collected from Burning Glass in March 2018, general skills that would be most useful according to employers are the following, in order: Communication skills, Problem-solving skills, Creativity, Leadership, Time management and Decision-making skills having the lowest rank. Other skills that were not listed down but were ranked high in the data were Organisation skills, Writing and Team work/Collaboration. Both pieces of data are exactly the same as data collected the month prior, on February 2018. Compared to data collected in May 2017, though, Time management is now less valued compared to the year prior, and Decision-making skills was not really valued at all.
+
+With IT-specific skills, March 2018 data shows that in order, the most useful skills in demand are: SQL, Javascript, Microsoft Windows and Graphic Design. Although, HTML5 and CSS3 weren’t in demand at all. It was slightly different in February 2018, with Graphic Design and CSS3 nowhere to be found and there being a slight demand for experience in HTML5. In May 2017, Graphic Design was not found in the data either.
+
+
+Looking at this data, as someone whose dream job is to be a video game designer, my opinion has changed a little. Graphic design being low or not on there in the skills desired has made me realise that I do not necessarily need to be a genius at graphic design to land my dream job, although I still need to know what’s necessary. But, it is a relief to know that to get to where I want to be, I can take my time to further refine the skills that I will eventually need in order to be a video game designer. 
 
 
 
