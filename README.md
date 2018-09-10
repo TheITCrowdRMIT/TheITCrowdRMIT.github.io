@@ -99,8 +99,15 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 
 ### Ideal Jobs
+**Aditya**-**Web Developer**
 
+**Sophie**-**UI/UX Designer**
 
+**Wenshuo**-**Systems and Networks Administrator**
+
+**Denise**-**Video Game Designer or Scenario Writer**
+
+**Thanh**-**Software and Game Developer**
 
 
 
@@ -172,6 +179,63 @@ As a manager, he said the most challenging part is that he must have a macro per
 ## IT Technologies 
 
 ### Blockchain and Cryptocurrency
+**What does it do?** 
+
+**Blockchain-** 
+
+It is a comparatively new method to securely and efficiently create a tamper-proof log of sensitive activity (anything from international money transfers to shareholder records). 
+
+Cryptography are mathematical methods of keeping data  and  identity a secret and so now enters the picture when it comes to recording transactions. Blockchain uses the same cryptographic key technology that keeps hackers from sniffing your credit card number when you type it into an e-commerce website. One digital key ensures only the owner can enter a transaction to the blockchain involving the owners assets, and another digital key lets someone else confirm it really was you who added the transaction.
+
+Blockchain conceptual framework and underlying code is useful for a variety of financial processes because of the potential it has to give companies a secure, digital alternative to banking processes that are extremely time consuming,expensive and use a lot of resources.
+
+Blockchain as a technology has the potential to fundamentally affect a wide variety of processes and technologies. At its core, the Blockchain is a system for eliminating the need for trust in transactions.
+
+Since Blockchain eliminates the risk of cyber crimes it boosts many departments in the Internet of Things like Self-Driving cars that need to be extremely safe before launching in the market.
+
+**Cryptocurrencies-**  
+
+It is a radically new way of paying that makes all the transactions secure and helps to get rid of intermediaries represented by banks, which also contributes to a significant reduction in the commission fee. 
+
+The main feature of cryptocurrencies is that it is made extremely safe by using Blockchain technology — a network of computers having an identical copy of the database and changing its records by a common agreement based on pure mathematics. 
+
+You can also use a really cool feature of the Blockchain technology and that is Smart Contracts that let you make your own cryptocurrencies and tokens.Token is a type of privately issued cryptocurrency, a unit of value that an organization creates to regulate and self-govern its business model, and empower its users to interact with its products while facilitating the distribution and sharing of rewards and benefits to all of its stakeholders.
+
+Given that more and more governments are looking into the regulation of cryptocurrencies, investors are feeling more comfortable about putting their funds into them.
+
+With added regulation, institutional investors will be able to sleep better at night and have to worry less about the uncertainty of the cryptocurrency market. In fact, more investors are seeing cryptocurrencies as a viable asset because of their attractive returns.
+
+Lack of security has long been one of the biggest concerns for traders. In fact, a survey conducted by Encrybit, a cryptocurrency exchange platform, revealed that 40 percent of the participants polled saw security as a major concern.
+
+Despite the measures to ensure stability in the cryptocurrency market, it's still a struggle to stop or at least reduce cryptocurrencies volatility. There are still so many factors keeping them volatile. These include: the currencies lack of intrinsic value, the lack of institutional capital, the implementation of regulations and thin-order books, among other factors.
+
+Although regulation of the currency and their markets will help lower volatility, that alone will not be enough to make a considerable difference in cryptocurrencies volatile nature.
+
+But, as cryptocurrency trading becomes more popular, we should be seeing a decrease in it’s volatility. While it will help people get great gains as the value might shoot up but it could might as well crash.
+
+**What is the likely impact?** 
+
+**Blockchain-** 
+
+It will impact us in many ways especially the future where it will become mainstream just like the Internet did. It is going to cause Decentralized Governance-One representation of decentralized governance is depicted by the arrival of Distributed Autonomous Organizations (DAO) whose governance and operations run on the blockchain. Arguably, this could be the epitome of business decentralization. 
+
+It will especially affect the middlemen or intermediaries as it will get the work done digitally and in a very straightforward kind of way hence cutting out the intermediary and in turn reducing the cost of the overall transaction or another work of that sort.
+
+It will also have a huge impact on Internet Of Things as it will help make more everyday items digital since blockchain reduces the chances of cybercrime.
+
+**Cryptocurrency-**
+
+The invention of cryptocurrency has had a lot of impact.For starters it has taken the trading world by storm creating many millionaires out of nowhere while also impacting economies like the US Dollar which is the reserve currency of the trading world as cryptocurrency makes everything decentralized on the other hand it is also used by hackers for payments as it is untraceable transactions and hence can cause some huge losses to people.The everyday people will be affected most by it since they might in the future change to cryptocurrencies which is becoming a more common payment method.
+
+While it takes huge amounts of energy to mine these cryptocurrencies which is bad for the environment.Plus we also don’t know how it will impact the economies of the world for the better or for worse since we don’t have much idea in which way cryptocurrencies are headed exactly.
+
+
+**How will this affect you?**
+
+**Blockchain-** It will change the way we make transactions as it will help us cut out the middle men.A wire transfer to a different bank in a different country costs us a lot of money and takes at least 3-5 business days but blockchain will reduce this drastically to maybe 10-30 minutes and also reduce the price.Since I am pursuing my degree in a foreign country it would make money transfers way more reliable and faster.It will make life easier for my parents and grandparents who wouldn’t have to run to the bank every time they want to make a transfer.It will also help originate many other apps that will be useful to us in the future.
+
+**Cryptocurrency-** It might in the future become the leading currency of the world and replace the US Dollar.I personally wouldn’t invest in cryptocurrencies and advise my friends and family against it,at least for now since it is really volatile and the prices of a few of them are outrageous.Though it will definitely make transactions safer it has also opened the gates to theft in a way in which cyber criminals ask for ransoms in Cryptocurrencies.Therefore it might be harmful for the less tech savvy people especially
+the old people,who might lose their entire life savings in the blink of an eye. Though it may prove otherwise as well and actually helping in people be protected from theft but the inconsistency in it’s rate and its volatility is a problem that makes me opt out of it. 
 
 
 
