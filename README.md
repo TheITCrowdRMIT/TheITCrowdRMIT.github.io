@@ -255,7 +255,7 @@ Machine learning as a subfield of Artificial Intelligence (AI) is getting more a
 
 So, what is machine learning?
 
-`“The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience.” (Tom Mitchell, Machine Learning)`
+“The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience.” (Tom Mitchell, Machine Learning)
  
 According to this simple definition that made by an American computer scientist Tom Mitchell in the preface of his textbook < Machine Learning >, we can get some basic ideas about machine learning. Machine learning involves in computer programs, automatic learning and experience. To extend this definition further by combining with other industry experts’ understandings, we can then tell that machine learning is more like data analytic methods by using various algorithms to enable machine to find patterns in large amount of data then make prediction for future actions. This self-learning process requires minimal explicit rules which have been pre-programmed by human developers.
 
