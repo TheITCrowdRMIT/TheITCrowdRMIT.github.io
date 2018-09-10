@@ -75,11 +75,15 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 **Aditya** 
 
+
 **Sophie**
+
 
 **Wenshuo**
 
+
 **Denise**
+
 
 **Thanh**
 
@@ -99,15 +103,21 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 
 ### Ideal Jobs
-**Aditya**-**Web Developer**
+- **Aditya**-**Web Developer**
 
-**Sophie**-**UI/UX Designer**
+- **Sophie**-**UI/UX Designer**
 
-**Wenshuo**-**Systems and Networks Administrator**
+- **Wenshuo**-**Systems and Networks Administrator**
 
-**Denise**-**Video Game Designer or Scenario Writer**
+- **Denise**-**Video Game Designer or Scenario Writer**
 
-**Thanh**-**Software and Game Developer**
+- **Thanh**-**Software and Game Developer**
+
+**Comparison and Contrast ideal jobs**
+
+Both Denise and Thanh want to go into video game designing or development.While Thanh wants to go more into the software part,Denise wants to become either a designer or a scenario writer.Which plays into what Thanh would be doing at the very basic level.
+Aditya wants to go into web development most probably making websites or user interfaces which goes hand in hand with Sophie’s choice of career which is a UX/UI designer.Both these professions look to make the website or any other functionality more user friendly and more efficient.
+Wenshuo wants to become a systems and networks administrator which ties most of the web pages together and helps in case of a breakdown.This is very important since even in this age of technology we have network breakdowns and sometimes bug fixes that render the site useless for sometime.
 
 
 
@@ -118,7 +128,6 @@ The job titles of the group’s ideal jobs are of the following: Web Developer, 
 As of March 2018, there is the highest demand for Graphic Designers among these job titles, followed by: Systems Administrators, Web Developers, Software Developers and UX Designers, in that order. This is the same compared to data from February 2018. Although, compared to May 2017, the demands for each job title are vastly different. In order, there is a high demand for Software Developers, followed by: Graphic Designers, UX Designers, Web Developers and Systems Administrator.
 
 This shows that employers are starting to have a bigger need for Systems Administrators, especially compared to last year, while there is not much demand for UX Designers. According to data from March 2018, UX Designers ranked the fifth lowest in terms of demand from employers.
-
 
 The group’s required general skill set are as follows:
 -	Problem-solving skills
@@ -139,7 +148,6 @@ From data collected from Burning Glass in March 2018, general skills that would 
 
 With IT-specific skills, March 2018 data shows that in order, the most useful skills in demand are: SQL, Javascript, Microsoft Windows and Graphic Design. Although, HTML5 and CSS3 weren’t in demand at all. It was slightly different in February 2018, with Graphic Design and CSS3 nowhere to be found and there being a slight demand for experience in HTML5. In May 2017, Graphic Design was not found in the data either.
 
-
 Looking at this data, as someone whose dream job is to be a video game designer, my opinion has changed a little. Graphic design being low or not on there in the skills desired has made me realise that I do not necessarily need to be a genius at graphic design to land my dream job, although I still need to know what’s necessary. But, it is a relief to know that to get to where I want to be, I can take my time to further refine the skills that I will eventually need in order to be a video game designer. 
 
 
@@ -152,11 +160,9 @@ Looking at this data, as someone whose dream job is to be a video game designer,
 
 Bing is an IT project manager who works in a place called “Big Data”. He said this is a profession in which rights and responsibilities coexist. In his daily work, he conducts background investigations on the project, collect and collate relevant materials, conduct demand planning, write project investigation reports and information summaries, conduct complete system design for project components or modules, contact project related units and relevant technical experts, formulate project feasibility, and collaboratively cooperate to formulate and declare the project report materials.
 
-
 **What kind of people does the IT professional interact with?**
 
 He usually works with other IT professionals, technical experts and client sites if it’s necessary. The project manager must effectively control all aspects of project development, assist and guide the work of project team members, identify and deal with problems in the project in a timely manner, and make a reasonable evaluation of the work of the project team members.  In addition, he has to maintain good communication with client site to ensure that everyone's efforts are on the right way. 
-
 
 **Where does the IT professional spend most of their time?**
 
@@ -166,7 +172,6 @@ IT project manager is the first responsible person for the entire project. So he
 2. Organizing the requirements analysis work and organizing the review of the requirements document and the requirements change document.
 3. Distributing system design task for his project team members.
 4. Organizing project development team meetings and preparing meeting minutes. Analyzing and solving difficult and suspect problems to ensure full communication between members of the group.
-
 
 **What aspect of their position is most challenging?**
 
@@ -179,6 +184,7 @@ As a manager, he said the most challenging part is that he must have a macro per
 ## IT Technologies 
 
 ### Blockchain and Cryptocurrency
+
 **What does it do?** 
 
 **Blockchain-** 
@@ -213,7 +219,7 @@ Although regulation of the currency and their markets will help lower volatility
 
 But, as cryptocurrency trading becomes more popular, we should be seeing a decrease in it’s volatility. While it will help people get great gains as the value might shoot up but it could might as well crash.
 
-**What is the likely impact?** 
+**What is the likely impact?**
 
 **Blockchain-** 
 
@@ -229,21 +235,67 @@ The invention of cryptocurrency has had a lot of impact.For starters it has take
 
 While it takes huge amounts of energy to mine these cryptocurrencies which is bad for the environment.Plus we also don’t know how it will impact the economies of the world for the better or for worse since we don’t have much idea in which way cryptocurrencies are headed exactly.
 
-
 **How will this affect you?**
 
-**Blockchain-** It will change the way we make transactions as it will help us cut out the middle men.A wire transfer to a different bank in a different country costs us a lot of money and takes at least 3-5 business days but blockchain will reduce this drastically to maybe 10-30 minutes and also reduce the price.Since I am pursuing my degree in a foreign country it would make money transfers way more reliable and faster.It will make life easier for my parents and grandparents who wouldn’t have to run to the bank every time they want to make a transfer.It will also help originate many other apps that will be useful to us in the future.
+**Blockchain-** 
 
-**Cryptocurrency-** It might in the future become the leading currency of the world and replace the US Dollar.I personally wouldn’t invest in cryptocurrencies and advise my friends and family against it,at least for now since it is really volatile and the prices of a few of them are outrageous.Though it will definitely make transactions safer it has also opened the gates to theft in a way in which cyber criminals ask for ransoms in Cryptocurrencies.Therefore it might be harmful for the less tech savvy people especially
+It will change the way we make transactions as it will help us cut out the middle men.A wire transfer to a different bank in a different country costs us a lot of money and takes at least 3-5 business days but blockchain will reduce this drastically to maybe 10-30 minutes and also reduce the price.Since I am pursuing my degree in a foreign country it would make money transfers way more reliable and faster.It will make life easier for my parents and grandparents who wouldn’t have to run to the bank every time they want to make a transfer.It will also help originate many other apps that will be useful to us in the future.
+
+**Cryptocurrency-** 
+
+It might in the future become the leading currency of the world and replace the US Dollar.I personally wouldn’t invest in cryptocurrencies and advise my friends and family against it,at least for now since it is really volatile and the prices of a few of them are outrageous.Though it will definitely make transactions safer it has also opened the gates to theft in a way in which cyber criminals ask for ransoms in Cryptocurrencies.Therefore it might be harmful for the less tech savvy people especially
 the old people,who might lose their entire life savings in the blink of an eye. Though it may prove otherwise as well and actually helping in people be protected from theft but the inconsistency in it’s rate and its volatility is a problem that makes me opt out of it. 
-
 
 
 ### Machine Learning
 
+**What does it do?** 
+
+Machine learning as a subfield of Artificial Intelligence (AI) is getting more and more popular in recent years. It is mainly because the dramatic development of GPU and data storage which allow computer to run a lot faster and be able to store massive amount of data than ever before. Machine Learning has associated with many areas, such as mathematics (algorithms), statistics (data mining), computer science (programming and coding), engineering and some other areas.
+
+So, what is machine learning?
+
+`“The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience.” (Tom Mitchell, Machine Learning)`
+ 
+According to this simple definition that made by an American computer scientist Tom Mitchell in the preface of his textbook < Machine Learning >, we can get some basic ideas about machine learning. Machine learning involves in computer programs, automatic learning and experience. To extend this definition further by combining with other industry experts’ understandings, we can then tell that machine learning is more like data analytic methods by using various algorithms to enable machine to find patterns in large amount of data then make prediction for future actions. This self-learning process requires minimal explicit rules which have been pre-programmed by human developers.
+
+There are a few most widely adopted machine learning methods, including supervised learning, semi-supervised learning, unsupervised learning and reinforcement learning. Supervised learning is normally used to predict future events based on historical data in applications. Semi-supervised learning prefers to combine small amount of labeled data with large amount of unlabeled data for training due to cost consideration. Unsupervised learning is well used for recommending items because of the nature of the algorithm is to explore data structures without influence of historical data. The last popular method is reinforcement learning. Its goal is to find the best action with maximal rewards via trial and error in order to optimize speed of the action.
+
+The term ‘Pattern recognition’ was originally from engineering, but nowadays it also has very close relationship with machine learning and artificial intelligence. In another words, pattern recognition plays a very important role in machine learning process. Pattern recognition is trained from labeled data, it extracts and visualizes data patterns that have been identified by the system. In machine learning, there are some main pattern recognition examples, such as classification, regression, sequence labeling and parsing. They use their own ways to assign labels to input values.
+
+Pattern recognition as a main part of machine learning, it has been used as the basis of many new technologies like automatic classification of text, recognition of images of human face, voice and handwriting, computer-aided diagnosis (CAD) which supports doctor’s findings, etc. Pattern recognition in real-time helps with solving plenty of real world problems which traditional ways that could not reach. 
+
+In modern societies, new information and technologies have been creating and developing faster and faster, which means machine learning could never be the same as yesterday. It is changing and updating all the time as the models are constantly exposed to new data/information. This constant learning process improves the accuracy and reliability of machine’s decision making.
+
+**What is the likely impact?**
+
+I believe that in a short future almost every industry will be impacted by machine learning significantly. Even nowadays, the applications of machine learning are basically everywhere and quite easy to find.
+In order to work more efficiently and winning the game in their own industry most of companies which have involved with great amounts of data have already realized and admitted the value of machine learning. They are now more willing to invest money in machine learning related products to earn good market share.
+
+**Marketing**：Most shopping websites would recommend some items that are quite similar to what you have purchased before, and the websites like YouTube would also recommend some videos that highly chance you would be interested in. These kind of recommendations are all used machine learning to identify your purchasing/ browsing patterns in order to personalize and improve your experiences. This recommendation system also promotes marketing campaign by sending right information to right user.
+
+**Finance**：Financial businesses are more prefer to use machine learning to identify important data to help clients to catch good investment opportunities, and machine learning can also prevent potential fraud to minimize clients’ financial loss.
+
+**Medical care**：In health care industry, the development of wearable / scanning devices that can help doctor or medical experts to quickly collect and make use of relevant data to assess patient's health condition is becoming more popular and important. Machine learning has very critical impact in this industry.
+
+**Cybersecurity**: Due to the explosive increasing of network data, machine learning has to deal with more data related issues and crimes, such as fraud detection, spam emails identification, and identity stealing, etc.    
+
+**Education**：In educational area, machine learning is showing its impact as well. It can change the way of learning and help students to personalize their own study patterns and build up their own unique learning resource kits to ensure their skills and talents can be stimulated to the maximal.
 
 
-### Cybersecurity
+**How will this affect you?**
+
+Today, I would write a few small scenarios to demonstrate how machine learning has affected my everyday life.
+ 
+**Scenario 1**: In a Saturday morning. I checked my Gmail to see what new emails I received previous night while I was having breakfast. I found two new emails sent by “Cotton on” and “Priceline” shops from Promotion folder, then I realized that I signed up memberships in those two shops last week. I never like mix my general emails with those shop emails together but I am too lazy to categorize them by myself. Gmail cleverly did this job for me automatically, it instantly recognized promotion emails and spam emails and sorted them out for me. (Pattern recognition)
+
+**Scenario 2**: At afternoon, outside was quite cloudy I was wondering whether it would rain that night, so I picked up my phone and said “Ok Google” to activate my google assistant by my voice (I have set up my personal google voice ID before by speaking “OK google” to google recording system three times). My mobile screen directly jumped into google assistant chatting screen, then I asked “Is Frankston going to rain tonight?” The assistant displayed Frankston’s weather forecast image on screen and replied me by saying “No, it is not predicted to rain in Frankston tonight, but it will be cloudy.” (Voice recognition)
+
+**Scenario 3**: At night, I turned my TV on and selected “Netflix” application, I found a new Korean TV drama recommendation on top of the main screen called “Life” which the lead actor is one of my favorite Korean actors. I have watched many Korean dramas on Netflix since last year and one of the dramas has almost got the same actor team with this new one. So of course I added the new recommendation to “my list” because I know I would definitely watch it when I’m free. (Pattern recognition) 
+
+
+### Clouds, services, servers
+
 
 
 
@@ -255,6 +307,17 @@ the old people,who might lose their entire life savings in the blink of an eye. 
 
 ## Project Idea
 
+**Mental Health Assessment Device**
+
+Nowadays, when it comes to mental health assessments, the traditional process could be quite lengthy. Involving having to sit with the mental health professional, answering a plethora of questions to be able to diagnose and determine if the patient has a mental illness. Even though these questions were specifically designed to be able to determine mental health issues, the questions could be subjected to human error, as the patient could be giving ambiguous answers that might make the professional ask a completely different set of questions to determine a totally different mental health issue. With this in mind, we hope to develop a device which can not only be accurate in describing a patient’s mental state, but do it in a very short amount time.
+
+The project that we had in mind borrows ideas and features from each member of the group. Our idea was to create a scanning device, in the form of a set of glasses that the psychologist would wear that can scan the brain and the mental state of the patient, diagnosing whether the person has a mental illness/es in no longer than 5 minutes. The device would be accessing a database that is derived from the DSM-V (stands for the ‘Diagnostic and Statistical Manual of Mental Disorders, 5th Edition), which contains the recorded known mental illnesses that exist and their traits, or use any other medical databases that are available for use. The traditional way of diagnosing a patient, which could take anywhere between 15-45 minutes of assessing via questions given by the psychologist/mental health worker, and answers given by the patient. This proposed device would be able to do all of that in 5 minutes, essentially eliminating the time that it would’ve taken for a patient to be assessed and diagnosed, saving valuable time and money. 
+
+From there, the psychologist/doctor/mental health worker, would be able to identify and treat the patient as they need to.
+
+The device would also come with an accompanying mobile application that can adjust settings for the device. Along with displaying the patient’s mental health data, the device and the app would also be able to display the patient’s physical status such as, the patient’s heart-rate, blood-pressure, etc. From the use of the application, the user is able to record the patient’s diagnosis into a seperate database that can be easily accessed through said application. The application would also be able to send information to a printer to print a hard-copy if need be. 
+
+Though we might not currently possess the technology, nor the skills to be able to develop a device such as this, we feel as though this idea would be very beneficial for use by doctors, psychologist, and mental health workers, being able to go through a lot more patients that may need to be diagnose or treated, in a shorter amount of time. 
 
 
 
@@ -265,19 +328,32 @@ the old people,who might lose their entire life savings in the blink of an eye. 
 **Aditya**
 
 
+
 **Sophie**
+
 
 
 **Wenshuo**
 
 
+
 **Denise**
+
 
 
 **Thanh**
 
 
+
 ### Group Reflection
+
+
+
+
+## References 
+
+
+
 
 
 
