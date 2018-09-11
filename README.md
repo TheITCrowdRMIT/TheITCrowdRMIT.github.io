@@ -370,7 +370,7 @@ Though we might not currently possess the technology, nor the skills to be able 
 
 
 
-### References 
+## References 
 
 **Aditya**
 
@@ -389,6 +389,15 @@ Though we might not currently possess the technology, nor the skills to be able 
 <https://gadgtecs.com/2018/03/06/impact-cryptocurrency-economy/>
 
 
+
+
+Mitchell, T. (1997). Machine learning. 1st ed. London: McGraw-Hill Pub. Co. (ISE Editions).
+
+Bishop, C. (2006). Pattern recognition and machine learning. 1st ed. New York: Springer.
+
+Sas.com. (n.d.). Machine Learning: What it is and why it matters. [online] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html [Accessed 6 Sep. 2018].
+
+Rouse,M,(2018). What is cybersecurity? Definition from WhatIs.com.SearchSecurity. Available at: https://searchsecurity.techtarget.com/definition/cybersecurity [Accessed 8 Sep.2018].
 
 
 
