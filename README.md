@@ -355,11 +355,17 @@ Though we might not currently possess the technology, nor the skills to be able 
 **Aditya**
 
 <https://www.businessinsider.com/blockchain-technology-cryptocurrency-explained-2017-8/?r=AU&IR=T>
+
 <https://www.cnet.com/news/blockchain-explained-builds-trust-when-you-need-it-most/>
+
 <https://www.newgenapps.com/blog/future-of-blockchain-technology-applications>
+
 <https://medium.com/meetngreetme-ico/explain-me-like-im-five-what-is-cryptocurrency-ed1276d5f4c5>
+
 <https://www.entrepreneur.com/article/314760>
+
 <https://www.finyear.com/Explaining-the-Blockchain-s-Impact-via-an-Infographic_a34680.html>
+
 <https://gadgtecs.com/2018/03/06/impact-cryptocurrency-economy/>
 
 
