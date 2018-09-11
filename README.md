@@ -321,6 +321,51 @@ on the other hand, Information leakage is becoming more seriously at the moment.
 
 ### Autonomous Vehicles
 
+**What does it do?** 
+
+Autonomous vehicles (otherwise known as driverless vehicles or self-driving vehicles) are a sub-category in the field of Artificial Intelligence (AI), which is becoming frequently more popular, and as they become more and more developed, the more they will become readily available to use. It is estimated that, by 2020, the industry will be worth US $87 billion. 
+
+Autonomous vehicles are vehicles that can drive/pilot themselves without human interaction. Allowing cars, boats, and planes to act on their own to get to their designated destinations as we wish. With the implementation of Autonomous vehicles, it would be easier to transport people, and even objects from one place to another. Autonomous vehicles are programmed so that it is capable of sensing its environment before navigating. Combining all sorts of technologies including: 
+
+**GPS (Global Positioning System)**, is a satellite-based, radionavigation system that is owned by the United States government. Using satellite imaging, you would be able to have an overhead view anywhere in the world.
+
+**Odometry**: The use of data from motion sensors to detect the amount of movement over time from a particular position.
+
+**Laser Light**: Technology that measures distance from a target by projecting a laser light at the target and measuring the reflected pulses with a sensor.
+
+With all these technologies in mind, the vehicles would be able to drive around on their own, sensing and detecting on-coming traffic, to be able to navigate itself around the roads without the need of human interaction. 
+
+The concept of Autonomous Vehicles can also be split into 5 core components:
+
+**Computer Vision**: Having the use of cameras in and around the car to be able to see the roads and other cars on the road.
+
+**Sensor Fusion**: Integrating data from other sensors, like radar and lasers (like previously mentioned), along with the use of camera data, to be able to build an understanding of the vehicles environment.
+
+**Localization**: Using GPS and other navigation technology to have the vehicle be able to understand where it is in the world, and of what it looks like.
+
+**Path Planning**: To be able to chart the a course for where we want the vehicle to go within the now discovered space, to have the vehicle be able to maneuver safely and comfortably.
+
+**Control**: Teaching the vehicle to accelerate, brake, or steer at the appropriate times within the world.
+
+With all of this in mind, all kinds of car manufacturers are all trying their best to be able to perfect this technology, since the industry is estimated to be worth billions if done correctly, and shows a lot of promise for its use on the roads.  
+
+
+**What is the likely impact?** 
+
+The likely impact of implementing autonomous vehicles, is that we’d be able to get to our wanted destination without having to put in the effort of driving ourselves, or waiting for someone else to drive for us. We wouldn’t have to worry about checking our surroundings when driving in lots of traffic, a Even transporting will be made a lot easier, as we don’t need to have a person behind the wheel of said vehicles to deliver packages/cargo to where they need to go. No need for people to travel tens to hundreds of kilometers and be under incredible exhaustion once the delivery is completed. 
+
+Without the interaction with humans, autonomous vehicles, if coded and tested properly, could cause less accidents, since autonomy of the vehicles eliminate all cause of human error from its use. Meaning that instead of having to pay a lot of attention to surroundings as a human driver, the technologies of the car would be able to detect all of it, and finalising a decision based on it. Since this is the case, human reflexes are actually a lot slower when compared to professionally implemented Artificial Intelligence (AI), with the use of the different technologies as mentioned above, can be more precise and accurate.
+
+The use of Autonomous Vehicles would not only be convenient for us to use, but is a lot more safe for us too, and so with the technology closely being perfected, it should not be long before self-driving cars take us wherever we need to go, or deliver goods and items to us. 
+
+**How will this affect you?**
+
+I think that it could greatly benefit someone like me, as I don’t drive a car myself, it would be very convenient to not have to ask someone (that may be busy) to drive me around to where I need to go. Since I use the ride sharing app, ‘Uber’, quite frequently, as a person that likes to keep to himself, sometimes I would just sit there with the driver the entire time and not a word would be said. Even the small talk with the driver is nothing but meaningless and could be cut out completely. So with the implementation of autonomous vehicles, it would be perfect for someone like me as I can get to where I need to go, as quick as the algorithm of the vehicle is programmed to be, with as little human interaction for someone like to me to enjoy. 
+
+Some other things that would also be affected by the implementation of autonomous vehicles is safety. As human error is more or less eliminated with the use of autonomous vehicles, and the amount of accidents between cars would be greatly decreased (depending on much testing and safety features are coded into the vehicle from developers and manufacturers). With such precision and accuracy with the combination of technologies that are built into the vehicles, I could feel safe behind the wheel of a autonomous vehicle as compared to the driving skills of a friend of mine (whom I shall not name for obvious reasons) who nearly had us crash multiple times on a single trip to Mornington Peninsula. 
+
+Generally, when rise of new technologies and gadgets are developed, people tend to steer clear (no pun intended) of them. It also doesn’t help that there have been multiple occurences of accidents caused by autonomous vehicles, but whether or not the blame should be placed on the vehicle itself, or to other factors like human error is a completely different debate. But personally, I’d imagine that the implementation of autonomous vehicles holds nothing but promise for our benefit, as it could be used in many ways. With that said, I look forward to when autonomous vehicles are perfected, making a better world for all of us.
+
 
 
 
