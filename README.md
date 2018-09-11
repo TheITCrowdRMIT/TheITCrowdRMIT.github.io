@@ -5,7 +5,7 @@
 ### Personal Information
 
 **Aditya  (s3733790)**
-- **Personal website**: https://aditya-dutta.github.io
+- **Personal website**: <https://aditya-dutta.github.io>
 
 **Background**- I was born and brought up in India.I actually used to live in the most liveable city in India called Pune which is a huge part of my life.I used to go to school at “The Bishop’s CO-ED School” which was regarded as the best school in the city and then for Junior College,I went to “The Lexicon International School” where I have spent some of the best days of my life.
 
@@ -19,7 +19,7 @@ My interest in IT started when I first wrote a program in Java BlueJ in the nint
 
 
 **Sophie  (s3742024)**
-- **Personal website**: https://sophiesha.github.io
+- **Personal website**: <https://sophiesha.github.io>
 
 **Background**- I moved to Australia 8 years ago after I finished my Bachelor degree of management in China. In the new country I became an early childhood educator and I enjoyed my work so much, but unfortunately I had to change my career direction due to my recent unexpected back injury. So I decided to come back to university to study something that has more potential job opportunities in future.
 
@@ -32,7 +32,7 @@ My interest in IT started when I first wrote a program in Java BlueJ in the nint
 
 
 **Wenshuo  (s3729628)**
-- **Personal website**: https://yukiwang3729628.github.io
+- **Personal website**: <https://yukiwang3729628.github.io>
 
 **Background**- My Nationality is Chinese and I can speak in two languages, English and Mandarin. I did my foundation program in Eynesbury College, Diploma of Commerce in Griffith College and currently I am pursuing Bachelor of IT at RMIT University.
 
@@ -45,7 +45,7 @@ My interest in IT started when I first wrote a program in Java BlueJ in the nint
 
 
 **Denise  (s3719547)**
-- **Personal website**: https://denbp.github.io
+- **Personal website**: <https://denbp.github.io>
  
 **Background**- I'm an Australian citizen, but I was actually born and raised in the Philippines till I was 9. This is my first year at RMIT and at university in general.
 I'm actually quite a huge gamer and it is one of my motivators. I also love writing narratives. I love creating worlds and characters and storylines to see how everything and everyone grows. My imagination runs wild!
@@ -59,7 +59,7 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 
 **Thanh  (s3743935)**
-- **Personal website**: https://thanhq1024.github.io
+- **Personal website**: <https://thanhq1024.github.io>
 
 **Background**- I am Vietnamese/Chinese Australian. I was actually born in Saigon, Vietnam, and moved to Australia in the year 2000, so I’ve been living in Australia as a citizen for the past 18 years. This is my first year at RMIT, though I came from doing the Bachelor of Psychology (Honours) at Monash University the previous year, switching from studying psychology to studying IT.
 
