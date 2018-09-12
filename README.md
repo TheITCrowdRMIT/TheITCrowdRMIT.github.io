@@ -75,7 +75,11 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 **Aditya** 
 
+![A-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-1.png)
 
+![A-Test 2](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-2.png)
+
+![A-Test 2](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-3.png)
 
 **Sophie**
 
@@ -130,8 +134,11 @@ Low Extraversion, High Neuroticism, High Agreeableness High Conscientiousness an
 
 **Thanh**
 
+![T-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Thanh-test%20result-1.png)
 
+![T-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Thanh%20-test%20result-2.png)
 
+![T-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Thanh-test%20result-3.png)
 
 **Analysis of personality contribution to the group**
 
