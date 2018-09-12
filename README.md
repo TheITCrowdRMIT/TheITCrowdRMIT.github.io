@@ -76,16 +76,60 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 **Aditya** 
 
 
+
 **Sophie**
+
+**Myer-Briggs test result**: 
+
+ISTJ - The Duty Fulfiller: Serious and quiet, interested in security and peaceful living. Extremely thorough, responsible, and dependable. Well-developed powers of concentration. Usually interested in supporting and promoting traditions and establishments. Well-organized and hardworking, they work steadily towards identified goals. They can usually accomplish any task once they have set their mind to it.
+
+**Big Five Personality test result**:
+
+High Conscientiousness
+Middle Openness to experience
+Middle Extraversion
+Low Agreeableness
+Low Natural reactions
+
+**Learning Style Assessment result**:
+
+Tactile/Kinesthetic Learner: Tactile/Kinesthetic learners learn best when they can use their sense of touch and can move about. 
+
+Tips for the learner: Make extensive use of a computer and the Internet. Actively touching the keyboard will keep your mind active. When trying to remember information, close your eyes and "write" the information in the air. Picture the information in your mind as you do so.
 
 
 **Wenshuo**
 
+**Myers-Briggs test**: 
+
+Defender Personality(ISFJ, -A/-T) Defender personality is quite unique. I have excellent analytical abilities but sensitive, enable to build robust social relationships but still reserved. I am often receptive to change and new ideas and try my best to strive for win-win situations. Doing tasks reliable and patient with great enthusiastic.
+
+**Learning style test**:
+
+Visual Learner Visual learners learn best when information is presented in a written language format or in another visual format such as pictures or diagrams.
+
+**Big Five Personality Test**: 
+
+Practical caretaker This Big Five assessment measures my scores on five major dimensions of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (sometimes abbreviated OCEAN). Your score for openness was low, at 46%, I probably think of myself as a practical, down-to-earth person and most comfortable in familiar surroundings. My score for conscientiousness, Extraversion, Agreeableness, and Neuroticism was 46%,48% 69% and 46% respectively. Overall, my core values and motivations is practical caretakers.
+
 
 **Denise**
 
+**MBTI Result: INFJ**
+
+Being an INFJ tells me that I am very altruistic and quite a rare personality type, plus I do not just have dreams, I will very willingly act upon them, due to my Judging (J) trait. It tells me that I am quite stubborn in what I believe in but seek balance in life and society. I feel that this is quite accurate for me, especially since some sources say that we can tire ourselves out because we think of others first before ourselves very often.
+
+**Learning Style: Visual**
+
+Being a visual learner, I learn best with diagrams and pictures. I absorb things better when I can picture them vividly in my head or if they are visualised right in front of me. I have never been a fan of textbooks in school, and would usually never use them. When writing notes, I almost always draw diagrams or tables so I am able to read them clearer and learn quickly. I am also a huge fan of colour-coding, and use highlighters and different coloured pens often for easier reading. 
+
+**Big Five Personality Results**: 
+
+Low Extraversion, High Neuroticism, High Agreeableness High Conscientiousness and High Openness to Experience
+
 
 **Thanh**
+
 
 
 
