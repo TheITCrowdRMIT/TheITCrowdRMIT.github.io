@@ -134,11 +134,11 @@ Low Extraversion, High Neuroticism, High Agreeableness High Conscientiousness an
 
 **Thanh**
 
-![T-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Thanh-test%20result-1.png)
+![thanhsmyersbriggs](https://user-images.githubusercontent.com/42132807/45422639-28e1aa80-b6d4-11e8-95f4-b512080d1321.png)
 
-![T-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Thanh%20-test%20result-2.png)
+![thanslearningstyle](https://user-images.githubusercontent.com/42132807/45422652-3008b880-b6d4-11e8-8141-cd6a85313f86.png)
 
-![T-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Thanh-test%20result-3.png)
+![thansbig5](https://user-images.githubusercontent.com/42132807/45422657-3303a900-b6d4-11e8-9a67-53b85ce97fa1.png)
 
 **Analysis of personality contribution to the group**
 
