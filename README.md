@@ -419,31 +419,31 @@ Though we might not currently possess the technology, nor the skills to be able 
 
 Understanding blockchain technology, b. (2018). Understanding blockchain technology, bitcoins and the rise of cryptocurrency. [online] Business Insider. Available at: https://www.businessinsider.com/blockchain-technology-cryptocurrency-explained-2017-8/?r=AU&IR=T [Accessed 5 Sep. 2018].
 
-CNET. (2018). Why should you care about blockchain? It’s the ultimate trust builder. [online] Available at: https://www.cnet.com/news/blockchain-explained-builds-trust-when-you-need-it-most/ [Accessed 6 Sep. 2018].
+Why should you care about blockchain? It’s the ultimate trust builder. (2018). [online] Available at: https://www.cnet.com/news/blockchain-explained-builds-trust-when-you-need-it-most/ [Accessed 6 Sep. 2018].
 
 Jain, Y. (2018). 8 Experts on the Future of Blockchain Technology & Applications. [online] Newgenapps.com. Available at: https://www.newgenapps.com/blog/future-of-blockchain-technology-applications [Accessed 6 Sep. 2018].
 
-Medium. (2018). Explain me like I’m five: What is Cryptocurrency – MeetnGreetMe ICO – Medium. [online] Available at: https://medium.com/meetngreetme-ico/explain-me-like-im-five-what-is-cryptocurrency-ed1276d5f4c5 [Accessed 6 Sep. 2018].
+Explain me like I’m five: What is Cryptocurrency.(2018) MeetnGreetMe ICO. [online] Available at: https://medium.com/meetngreetme-ico/explain-me-like-im-five-what-is-cryptocurrency-ed1276d5f4c5 [Accessed 6 Sep. 2018].
 
-Entrepreneur. (2018). A Look Into the Future of Cryptocurrencies – 3 Predictions for the Cryptocurrency Market. [online] Available at: https://www.entrepreneur.com/article/314760 [Accessed 7 Sep. 2018].
+A Look Into the Future of Cryptocurrencies – 3 Predictions for the Cryptocurrency Market.(2018). [online] Available at: https://www.entrepreneur.com/article/314760 [Accessed 7 Sep. 2018].
 
 Finyear, Q. (2018). Explaining the Blockchain’s Impact via an Infographic. [online] Quotidien Finance Digitale, Crypto Finance Daily News. Available at: https://www.finyear.com/Explaining-the-Blockchain-s-Impact-via-an-Infographic_a34680.html [Accessed 7 Sep. 2018].
 
-GadgTecs. (2018). The Impact of Cryptocurrency on the Economy. [online] Available at: https://gadgtecs.com/2018/03/06/impact-cryptocurrency-economy/ [Accessed 7 Sep. 2018].
+The Impact of Cryptocurrency on the Economy. (2018). [online] Available at: https://gadgtecs.com/2018/03/06/impact-cryptocurrency-economy/ [Accessed 7 Sep. 2018].
 
 Mitchell, T. (1997). Machine learning. 1st ed. London: McGraw-Hill Pub. Co. (ISE Editions).
 
 Bishop, C. (2006). Pattern recognition and machine learning. 1st ed. New York: Springer.
 
-Sas.com. (n.d.). Machine Learning: What it is and why it matters. [online] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html [Accessed 6 Sep. 2018].
+Machine Learning: What it is and why it matters. Sas.com.[online] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html [Accessed 6 Sep. 2018].
 
 Rouse,M,(2018). What is cybersecurity? Definition from WhatIs.com.SearchSecurity. Available at: https://searchsecurity.techtarget.com/definition/cybersecurity [Accessed 8 Sep.2018].
 
 Union of Concerned Scientists. (2018). Self-Driving Cars Explained. [online] Available at: https://www.ucsusa.org/clean-vehicles/how-self-driving-cars-work#.W5fWcOgzZPY [Accessed 9 Sep. 2018].
 
-Medium. (2018). How Self-Driving Cars Work – Udacity Inc – Medium. [online] Available at: https://medium.com/udacity/how-self-driving-cars-work-f77c49dca47e [Accessed 9 Sep. 2018].
+How Self-Driving Cars Work.(2018). Udacity Inc. [online] Available at: https://medium.com/udacity/how-self-driving-cars-work-f77c49dca47e [Accessed 9 Sep. 2018].
 
-Accenture.com. (2018). The benefits of autonomous vehicles in Australia | Accenture. [online] Available at: https://www.accenture.com/au-en/insight-realising-benefits-autonomous-vehicles-australia-overview [Accessed 9 Sep. 2018].
+The benefits of autonomous vehicles in Australia. (2018). [online] Available at: https://www.accenture.com/au-en/insight-realising-benefits-autonomous-vehicles-australia-overview [Accessed 9 Sep. 2018].
 
 
 
