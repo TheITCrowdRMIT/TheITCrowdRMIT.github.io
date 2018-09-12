@@ -79,7 +79,7 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 ![screenshot 3](https://user-images.githubusercontent.com/42132807/45422320-3cd8dc80-b6d3-11e8-94b1-4b553aee4e37.png)
 
-![screenshot 4](https://user-images.githubusercontent.com/42132807/45422346-4a8e6200-b6d3-11e8-93cd-93c1391ff7a6.png)
+![myp](https://user-images.githubusercontent.com/42132807/45422905-fedcb800-b6d4-11e8-8641-1d89bb91ff2e.png)
 
 **Sophie**
 
