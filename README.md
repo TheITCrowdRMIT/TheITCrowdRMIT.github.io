@@ -77,9 +77,9 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 ![screenshot 2](https://user-images.githubusercontent.com/42132807/45422069-78bf7200-b6d2-11e8-8f8d-29a43beea617.png)
 
-![A-Test 2](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-2.png)
+![screenshot 3](https://user-images.githubusercontent.com/42132807/45422320-3cd8dc80-b6d3-11e8-94b1-4b553aee4e37.png)
 
-![A-Test 2](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-3.png)
+![screenshot 4](https://user-images.githubusercontent.com/42132807/45422346-4a8e6200-b6d3-11e8-93cd-93c1391ff7a6.png)
 
 **Sophie**
 
