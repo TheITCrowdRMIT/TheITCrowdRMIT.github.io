@@ -75,7 +75,7 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 
 **Aditya** 
 
-![A-Test 1](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-1.png)
+![screenshot 2](https://user-images.githubusercontent.com/42132807/45422069-78bf7200-b6d2-11e8-8f8d-29a43beea617.png)
 
 ![A-Test 2](https://github.com/TheITCrowdRMIT/TheITCrowdRMIT.github.io/blob/master/Aditya-test%20result-2.png)
 
