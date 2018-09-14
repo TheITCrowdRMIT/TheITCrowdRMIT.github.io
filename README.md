@@ -443,6 +443,10 @@ Though we might not currently possess the technology, nor the skills to be able 
 
 **Aditya**
 
+When I heard that we had to do a group project,I was like uuhhh not again but,
+I have to say that this might have been the best ever team work I have done in any of my academic studies cause everyone was very professional in the way they went about their work and completed everything on time and their work was also of very good quality.This all to me was very surprising because I have a bad track record of getting very bad groups with people always slacking off and me doing all the work.
+This has really changed my perception towards teamwork.I always preferred to work alone given my previous traumatic experiences which had made me realise why Batman prefers to work alone, but now I am pretty happy with how things are going.I have learned that teamwork isn’t bad always on the contrary it can be super beneficial if you have a good team with you so that it can reduce your workload.In all I am happy with how things worked out and I look forward to working with this group again.
+
 
 
 **Sophie**
