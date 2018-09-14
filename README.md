@@ -61,7 +61,7 @@ I'm actually quite a huge gamer and it is one of my motivators. I also love writ
 **Thanh  (s3743935)**
 - **Personal website**: <https://thanhq1024.github.io>
 
-**Background**- I am Vietnamese/Chinese Australian. I was actually born in Saigon, Vietnam, and moved to Australia in the year 2000, so I’ve been living in Australia as a citizen for the past 18 years. This is my first year at RMIT, though I came from doing the Bachelor of Psychology (Honours) at Monash University the previous year, I decided to make the switch from studying psychology to studying IT. As IT was something that I am also passoinate about learning, hoping to one day, somehow, to combine the 2 disciplines together.
+**Background**- I am Vietnamese/Chinese Australian. I was actually born in Saigon, Vietnam, and moved to Australia in the year 2000, so I’ve been living in Australia as a citizen for the past 18 years. This is my first year at RMIT, though I came from doing the Bachelor of Psychology (Honours) at Monash University the previous year, I decided to make the switch from studying psychology to studying IT. As IT was something that I am also passionate about learning, hoping to someday, somehow, to combine the 2 disciplines together.
 
 **Hobbies**- My hobbies include playing badminton on weekends, building plastic model kits of ‘Gundam’ mecha-robots, and playing video games whenever I can! (Have to shorten the growing stack of games somehow, right?) 
 
