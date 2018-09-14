@@ -7,12 +7,12 @@
 **Aditya  (s3733790)**
 - **Personal website**: <https://aditya-dutta.github.io>
 
-**Background**- I was born and brought up in India.I actually used to live in the most liveable city in India called Pune which is a huge part of my life.I used to go to school at “The Bishop’s CO-ED School” which was regarded as the best school in the city and then for Junior College,I went to “The Lexicon International School” where I have spent some of the best days of my life.
+**Background**- I was born and brought up in India. I actually used to live in the most liveable city in India called Pune which is a huge part of my life. I used to go to school at “The Bishop’s CO-ED School” which was regarded as the best school in the city and then for Junior College, I went to “The Lexicon International School” where I have spent some of the best days of my life.
 
-**Hobbies**- I love Tennis,I am a huge Rafael Nadal fan.I am pretty good at the sport along with many other sports as well like Football,Cricket and Table Tennis along with great passion for Pool and Monopoly.
+**Hobbies**- I love Tennis, I am a huge Rafael Nadal fan. I am pretty good at the sport along with many other sports as well like Football, Cricket and Table Tennis along with great passion for Pool and Monopoly.
 
-**Interest in IT**- My interest in IT is too learn and understand how things work.We are all living in a tech-savvy world and so it's really important to understand and know what is happening everyday rather than just living blindly all the time.
-My interest in IT started when I first wrote a program in Java BlueJ in the ninth grade.It really took me by surprise that the simple code that I wrote could produce vast results.
+**Interest in IT**- My interest in IT is too learn and understand how things work. We are all living in a tech-savvy world and so it's really important to understand and know what is happening everyday rather than just living blindly all the time.
+My interest in IT started when I first wrote a program in Java BlueJ in the ninth grade. It really took me by surprise that the simple code that I wrote could produce vast results.
 
 **IT Experience**- I had a 12th grade project in which my topic was to create a java program for an Airline Ticket booking system which was also backed up by SQL and I did a pretty decent job considering my group mates were no help at all and I should have charged them.
 
@@ -106,7 +106,7 @@ Tips for the learner: Make extensive use of a computer and the Internet. Activel
 
 **Myers-Briggs test**: 
 
-Defender Personality(ISFJ, -A/-T) Defender personality is quite unique. I have excellent analytical abilities but sensitive, enable to build robust social relationships but still reserved. I am often receptive to change and new ideas and try my best to strive for win-win situations. Doing tasks reliable and patient with great enthusiastic.
+Defender Personality (ISFJ, -A/-T) Defender personality is quite unique. I have excellent analytical abilities but sensitive, enable to build robust social relationships but still reserved. I am often receptive to change and new ideas and try my best to strive for win-win situations. Doing tasks reliable and patient with great enthusiastic.
 
 **Learning style test**:
 
@@ -114,7 +114,7 @@ Visual Learner Visual learners learn best when information is presented in a wri
 
 **Big Five Personality Test**: 
 
-Practical caretaker This Big Five assessment measures my scores on five major dimensions of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (sometimes abbreviated OCEAN). Your score for openness was low, at 46%, I probably think of myself as a practical, down-to-earth person and most comfortable in familiar surroundings. My score for conscientiousness, Extraversion, Agreeableness, and Neuroticism was 46%,48% 69% and 46% respectively. Overall, my core values and motivations is practical caretakers.
+Practical caretaker This Big Five assessment measures my scores on five major dimensions of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (sometimes abbreviated as OCEAN). Your score for openness was low, at 46%, I probably think of myself as a practical, down-to-earth person and most comfortable in familiar surroundings. My score for conscientiousness, Extraversion, Agreeableness, and Neuroticism was 46%,48% 69% and 46% respectively. Overall, my core values and motivations is practical caretakers.
 
 
 **Denise**
@@ -142,15 +142,15 @@ Low Extraversion, High Neuroticism, High Agreeableness High Conscientiousness an
 
 **Analysis of personality contribution to the group**
 
-**Aditya** is an ISTJ which suggests he is well organized,hard working and almost always completes his work.The Introversion part suggests that he can work in a group but may choose not to mingle with them a lot.
+**Aditya** is an ISTJ which suggests he is well organized, hard working and almost always completes his work. The Introversion part suggests that he can work in a group but may choose not to mingle with them a lot.
 
-**Sophie** is also an ISTJ which means she is responsible,dependable and hard working.Her Big 5 personality test shows that she has low agreeableness which might not always be the best for team work but till she does her part of the job excellently it shouldn’t be a problem.
+**Sophie** is also an ISTJ which means she is responsible, dependable and hard working. Her Big 5 personality test shows that she has low agreeableness which might not always be the best for team work but till she does her part of the job excellently it shouldn’t be a problem.
 
-**Wenshuo** has a Defender Personality(ISFJ, -A/-T) which is very unique.It shows that she builds robust social relationships and is open minded which is great for the group.Her big 5 personality test also showed Extraversion which is really good socialising trait.
+**Wenshuo** has a Defender Personality (ISFJ, -A/-T) which is very unique. It shows that she builds robust social relationships and is open minded which is great for the group. Her big 5 personality test also showed Extraversion which is really good socialising trait.
 
-**Denise** has a INFJ personality which is a very rare personality type.It shows that she follows her intuition a lot.She may also get easily demotivated when criticized which isn’t ideal for group work but her big 5 personality test suggests that she has high Agreeableness and high Openness to Experience which is good for team work.
+**Denise** has a INFJ personality which is a very rare personality type. It shows that she follows her intuition a lot. She may also get easily demotivated when criticized which isn’t ideal for group work but her big 5 personality test suggests that she has high Agreeableness and high Openness to Experience which is good for team work.
 
-**Thanh** is a INFP-T personality type which means he has great perception of things which is a good asset for a group member.He also has great intuition which combined with his perception makes a really good mix.
+**Thanh** is a INFP-T personality type which means he has great perception of things which is a good asset for a group member. He also has great intuition which combined with his perception makes a really good mix.
 
 
 ### Ideal Jobs
@@ -166,9 +166,7 @@ Low Extraversion, High Neuroticism, High Agreeableness High Conscientiousness an
 
 **Comparison and Contrast ideal jobs**
 
-Both Denise and Thanh want to go into video game designing or development.While Thanh wants to go more into the software part,Denise wants to become either a designer or a scenario writer.Which plays into what Thanh would be doing at the very basic level.
-Aditya wants to go into web development most probably making websites or user interfaces which goes hand in hand with Sophie’s choice of career which is a UX/UI designer.Both these professions look to make the website or any other functionality more user friendly and more efficient.
-Wenshuo wants to become a systems and networks administrator which ties most of the web pages together and helps in case of a breakdown.This is very important since even in this age of technology we have network breakdowns and sometimes bug fixes that render the site useless for sometime.
+Both Denise and Thanh want to go into video game designing or development. While Thanh wants to go more into the software part, Denise wants to become either a designer or a scenario writer. Which plays into what Thanh would be doing at the very basic level. Aditya wants to go into web development most probably making websites or user interfaces which goes hand in hand with Sophie’s choice of career which is a UX/UI designer. Both these professions look to make the website or any other functionality more user friendly and more efficient. Wenshuo wants to become a systems and networks administrator which ties most of the web pages together and helps in case of a breakdown. This is very important since even in this age of technology we have network breakdowns and sometimes bug fixes that render the site useless for sometime.
 
 
 
@@ -437,9 +435,9 @@ Though we might not currently possess the technology, nor the skills to be able 
 
 
 
-## Group Reflection
+## Reflection
 
-### Individual Reflection
+### Individual Reflections
 
 **Aditya**
 
