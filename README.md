@@ -448,21 +448,24 @@ I have to say that this might have been the best ever team work I have done in a
 This has really changed my perception towards teamwork.I always preferred to work alone given my previous traumatic experiences which had made me realise why Batman prefers to work alone, but now I am pretty happy with how things are going.I have learned that teamwork isn’t bad always on the contrary it can be super beneficial if you have a good team with you so that it can reduce your workload.In all I am happy with how things worked out and I look forward to working with this group again.
 
 
-
 **Sophie**
 
+From my perspective, the group did a quite good job in general. After we had first proper meeting in the class and everyone agreed with the group work plan, we all basically sticked with the plan and finished our tasks by group task deadlines. Group communication was a concern during the first week after the group has been formed as the members were not responsive and motivated enough to get the project started, so we had a honest and open discussion in the first group meeting to decide what we needed to do in the following weeks. The group communication has been well improved since then. The one thing that surprised me was we actually finished 70% of the assignment a week ahead of the final due date which means we all showed our respect to the agreed work plan. The one thing that I have learned through the group was, when everyone work towards the same goal a hard project can become a piece of cake. Due to my role as group github repository maintenance person, I have fairly active log of activity with group github account. I told other members that they were only responsible for putting their own assigned tasks into the repository. The group members followed the instructions very well and we built up the website without much struggles.
 
 
 **Wenshuo**
 
 
 
+
 **Denise**
 
+Despite small setbacks we faced upon starting the assignment, everyone did their part well and the group was very well-organised. We were all punctual and had done most of the assignment well ahead of time. This was due to the helpful idea of setting small deadlines for the group to ensure that every part was finished as soon as possible. Group communication was rocky at first, since members were not responsive enough, but it has improved greatly since then. I was not able to attend one tutorial and group meeting due to personal reasons which I was worried about at the time, but I was very pleased to know that everything was organised by then and I was filled in on the details on what happened and what I needed to do. I’m very happy with the fact that we checked on each other and made sure that everyone was pulling their weight, which they did. We all managed to get through the hurdle in the beginning and did our tasks and this assignment overall with great ease, well ahead of the deadline. Overall, this group was very well-organised and everyone did their part well. The members are very reliable and punctual, leading to a very satisfactory result.
 
 
 **Thanh**
 
+From what I’ve seen from this group, we’ve managed to all pull our weight in regards to the work that each and every one of us had been assigned, and had completed in a timely manner. Though at the beginning it wasn’t so easy as there was very little communication within the group, leading to people being upset. But once the group was able to get together and discuss the assignment and everyone’s roles properly, we were on our way. Aside from this hiccup, we all managed to complete our assigned workloads within the first week, completing well over half the assignment in a matter of days. I can also see that Sophie was checking in every now and again to make sure that people were going to complete their part, and she did a really good job on doing so by messaging the group on what the next plan of action would be. Everyone else has also done superb work for their assigned work, giving as much effort and detail into their work as they should be, giving respect to each other to pull our own weight and not drag the team down, and so as a group, everyone was very responsible and reliable to have as group members. 
 
 
 ### Group Reflection
