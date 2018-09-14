@@ -455,7 +455,7 @@ From my perspective, the group did a quite good job in general. After we had fir
 
 **Wenshuo**
 
-
+In my opinion, group formation is the the initial stage. In IT lecture, I am attracted by Thanh’s project idea. We selected our group members and formed a group of five   as we all were classmates. Then we shared our contact details and build a group chat on Messenger very timely, trying to organize the work on it and completing the task on time. Sophie developed a timeline and made a work plan for us and shared on Canvas. Although we had some challenges at the beginning, While we were figuring out the work and were trying to decide everyone’s role in the group, the group work got a bit delayed and some work got postponed. After a serious and effective meeting, we solved problems together and everything go back to right way. Each group member has strong contributions to the group project and to the discussion at meetings. We completed our own task efficiently and timely, respond the message positively. Sophie as a leader in our group, she was responsible to monitor that the work is organized to get it done. In general, we did quite good job in our group, this group work did help me to achieve more than when I did alone.
 
 
 **Denise**
