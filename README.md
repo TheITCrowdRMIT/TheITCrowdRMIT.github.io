@@ -496,5 +496,22 @@ How Self-Driving Cars Work.(2018). Udacity Inc. [online] Available at: https://m
 
 The benefits of autonomous vehicles in Australia. (2018). [online] Available at: https://www.accenture.com/au-en/insight-realising-benefits-autonomous-vehicles-australia-overview [Accessed 9 Sep. 2018].
 
+Top Generic Skills March 2018. (2018). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top Generic Skills February 2018. (2018). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top Generic Skills May 2017. (2017). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top IT Skills March 2018. (2018). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top IT Skills February 2018. (2018). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top IT Skills May 2017. (2017). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top Job Titles March 2018. (2018). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top Job Titles February 2018. (2018). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
+
+Top Job Titles May 2017. (2017). [PDF] Available at: https://www.burning-glass.com/products/labor-insight [Accessed 6 Sep. 2018].
 
 
