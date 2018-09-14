@@ -89,11 +89,11 @@ ISTJ - The Duty Fulfiller: Serious and quiet, interested in security and peacefu
 
 **Big Five Personality test result**:
 
-High Conscientiousness
-Middle Openness to experience
-Middle Extraversion
-Low Agreeableness
-Low Natural reactions
+High Conscientiousness,
+Middle Openness to experience,
+Middle Extraversion,
+Low Agreeableness,
+Low Natural reactions.
 
 **Learning Style Assessment result**:
 
