@@ -236,16 +236,53 @@ As a manager, he said the most challenging part is that he must have a macro per
 
 **What does it do?**
 
-empty
+**Blockchain**-
+
+It is a way to make transactions safer than they currently are. So how does blockchain make this possible? Well according to the definition from The Economic Times, cryptography is associated with the process of converting ordinary plain text into unintelligible text and vice-versa, it is a method of storing and transmitting data in a particular form so that only the owner of the account can read, modify or delete the account. This is exactly what Blockchain uses to make its transactions safer than other methods in the competitive market as it won’t allow a third party to breach into its records and modify them leading to cybercrime. (Stephen Shankland, 2018)
+
+Blockchain uses the same cryptographic technology to prevent hackers from stealing your credit card number when you type it into e-commerce websites. One digital key ensures that you are the only person who can enter a transaction to the blockchain involving your assets, another digital key allows somebody else confirm it really was you who added the transaction (Stephen Shankland, 2018). Blockchain uses a lot of methods to make sure that its transactions are safe and it also helps us be independent of the middle men who are not always trustworthy.
+
+Since Blockchain eliminates the risk of cybercrimes it boosts many departments in the Internet of Things like Self-Driving cars that need to be extremely safe before launching in the market.
+
+**Cryptocurrencies**-
+
+It is a radically new way of paying that makes all the transactions secure and helps to get rid of intermediaries represented by banks, which also contributes to a significant reduction in the commission fee. 
+
+The main feature of cryptocurrencies is that it is made extremely safe by using Blockchain technology — a network of computers having an identical copy of the database and changing the records depending upon who solves mathematical sums fastest (Liza Deikun, n.d.). You can also use a really cool feature of the Blockchain technology and that is Smart Contracts that let you make your own cryptocurrencies and tokens.
+
+So what is a token? Token is a kind of privately issued cryptocurrency, a unit of value that an organization creates to regulate and govern its business model, empower users to interact with its products when facilitating the distribution and sharing of rewards/ benefits with all stakeholders (William Mougayar,2017). Since the Blockchain technology is itself very advanced and very safe it can be safe to assume that cryptocurrencies like Bitcoin and Ripple for example that are famous in the market are kept under constant checks and are safe to quite an extent. 
+
+Consider that there are more governments are looking into the regulation of cryptocurrencies, investors are feeling more comfortable about putting their funds into them. With added regulation, institutional investors will be able to sleep better at night and have to worry less about the uncertainty of the cryptocurrency market. Actually, a lot of investors are seeing cryptocurrencies as a valuable asset due to attractive returns. 
+
+One of the biggest reasons why people opt out of cryptocurrencies is because of how unsafe it is. In fact, a surveys conducted by Encrybit, a cryptocurrency exchange platform, revealed that 40 percent of the participants polled saw security as a major concern. This shows that people are at least aware about the volatility of cryptocurrencies and make their investments smartly since a lot of money is riding on how cryptocurrencies are doing in the market.
+
 
 **What is the likely impact?**
 
-empty
+**Blockchain**- 
+
+It will impact us in many ways especially the future where it will become mainstream just like the Internet did. It is going to cause Decentralized Governance. (Sam Kim, 2018) With bitcoin and cryptocurrencies becoming more mainstream, some experts are predicting that blockchain will have an equal or greater impact than the birth of the internet. The technology is no longer centralized meaning no general body is in control hence reducing corruption.
+
+This  will especially affect the middlemen or intermediaries as will get the work done digitally and in a very straightforward kind of way hence cutting out the intermediary and in turn reducing the cost of the overall transaction or another work of that sort.
+
+It will also have a huge impact on Internet of Things as it will help make more everyday items digital since blockchain reduces the chances of cybercrime.
+
+**Cryptocurrency**-
+
+The invention of cryptocurrency has had a lot of impact. For starters it has taken the trading world by storm creating many millionaires out of nowhere while also impacting economies like the US Dollar which is the reserve currency of the trading world as cryptocurrency makes everything decentralized on the other hand it is also used by hackers for payments as it is untraceable transactions and hence can cause some huge losses to people. The everyday people will be affected most by it since they might in the future change to cryptocurrencies which is becoming a more common payment method.
+
+While it takes huge amounts of energy to mine these cryptocurrencies which is bad for the environment. Plus we also don’t know how it will impact the economies of the world for the better or for worse since we don’t have much idea in which way cryptocurrencies are headed exactly.
+
 
 **How will this affect you?**
 
+**Blockchain**- 
 
-empty
+It will change the way we make transactions as it will help us cut out the middle men. A wire transfer to a different bank in a different country costs us a lot of money and takes at least 3-5 business days but blockchain will reduce this drastically to maybe 10-30 minutes and also reduce the price. Since I am pursuing my degree in a foreign country it would make money transfers way more reliable and faster. It will make life easier for my parents and grandparents who wouldn’t have to run to the bank every time they want to make a transfer. It will also help originate many other apps that will be useful to us in the future.
+
+**Cryptocurrency**-
+
+It might in the future become the leading currency of the world and replace the US Dollar. I personally wouldn’t invest in cryptocurrencies and advise my friends and family against it, at least for now since it is really volatile and the prices of a few of them are outrageous. Though it will definitely make transactions safer it has also opened the gates to theft in a way in which cyber criminals ask for ransoms in Cryptocurrencies. Therefore it might be harmful for the less tech savvy people especially the old people, who might lose their entire life savings in the blink of an eye. Though it may prove otherwise as well and actually helping in people be protected from theft but the inconsistency in its rate and its volatility is a problem that makes me opt out of it.
 
 
 
@@ -363,7 +400,6 @@ I think that it could greatly benefit someone like me, as I don’t drive a car 
 Some other things that would also be affected by the implementation of autonomous vehicles is safety. As human error is more or less eliminated with the use of autonomous vehicles, and the amount of accidents between cars would be greatly decreased (depending on much testing and safety features are coded into the vehicle from developers and manufacturers). With such precision and accuracy with the combination of technologies that are built into the vehicles, I could feel safe behind the wheel of a autonomous vehicle as compared to the driving skills of a friend of mine (whom I shall not name for obvious reasons) who nearly had us crash multiple times on a single trip to Mornington Peninsula. 
 
 Generally, when rise of new technologies and gadgets are developed, people tend to steer clear (no pun intended) of them. It also doesn’t help that there have been multiple occurences of accidents caused by autonomous vehicles, but whether or not the blame should be placed on the vehicle itself, or to other factors like human error is a completely different debate. But personally, I’d imagine that the implementation of autonomous vehicles holds nothing but promise for our benefit, as it could be used in many ways. With that said, I look forward to when autonomous vehicles are perfected, making a better world for all of us.
-
 
 
 
