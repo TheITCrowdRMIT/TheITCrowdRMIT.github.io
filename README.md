@@ -236,16 +236,16 @@ As a manager, he said the most challenging part is that he must have a macro per
 
 **What does it do?**
 
-
+empty
 
 **What is the likely impact?**
 
-
+empty
 
 **How will this affect you?**
 
 
-
+empty
 
 
 
