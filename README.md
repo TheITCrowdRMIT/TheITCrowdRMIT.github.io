@@ -465,6 +465,10 @@ We created a group repository on Github and invited every group member to join s
 
 ## References 
 
+
+The Economic Times:Definition of Cryptography | What is Cryptography ? Cryptography Meaning - The Economic Times
+https://economictimes.indiatimes.com/definition/cryptography
+
 Understanding blockchain technology, b. (2018). Understanding blockchain technology, bitcoins and the rise of cryptocurrency. [online] Business Insider. Available at: https://www.businessinsider.com/blockchain-technology-cryptocurrency-explained-2017-8/?r=AU&IR=T [Accessed 5 Sep. 2018].
 
 Why should you care about blockchain? It’s the ultimate trust builder. (2018). [online] Available at: https://www.cnet.com/news/blockchain-explained-builds-trust-when-you-need-it-most/ [Accessed 6 Sep. 2018].
