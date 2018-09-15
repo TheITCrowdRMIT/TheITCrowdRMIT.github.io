@@ -456,10 +456,15 @@ From what I’ve seen from this group, we’ve managed to all pull our weight in
 
 From group perspective, our overall work process is quite well and smooth.  Sophie as a leader helps the group to work very effectively. She formed a good work plan based on group discussion. We experienced the power of an effective work plan with details and small task deadlines during this assignment completing process, it really helped the group to get organized from the very beginning. We also did weekly work progress check to ensure the workflow was as smooth as possible. 
 
-During the early stage of working together, problem cropped up on member’s enthusiasm for participation, but the issue has been resolved quickly when members realised the importance of effective communication. Though the assignment has been broken up into small tasks and those tasks have been equally distributed to each group members, we still often consulted with one another when we ran into difficulties with our own tasks. We all believe this group work helped us with developing better communication skills and knowledge about what difficulties we may face in future group work and how we overcome them. 
+During the early stage of working together, problem cropped up on member’s enthusiasm for participation, but the issue has been resolved quickly when members realised the importance of effective communication.Once the basic communication method was set up and everyone knew their group-mates well things were quite smooth sailing since  the assignment has been broken up into small tasks and those tasks have been equally distributed to each group members, we still often consulted with one another when we ran into difficulties with our own tasks.We also think that we 
+distributed tasks in a really efficient way by playing to everyone’s strength.
+
+We all believe this group work helped us with developing better communication skills and knowledge about what difficulties we may face in future group work and how we overcome them. 
 Working in the group did allow us to build some professional knowledge about skills we already have and skills that we need to develop. 
 
-We created a group repository on Github and invited every group member to join so that all the members were able to upload their own tasks on it. 
+We created a group repository on Github by the name of TheITCrowdRMIT and invited every group member to join so that all the members were able to upload their own tasks on it,but for ease of editing and proofreading the data, we put Sophie in charge of looking after the website while most of the others edited their contribution in the shared google docs first at early stage, then uploaded edited version to the GitHub group repository at later stage of team work.
+
+The chart below shows the group contribution level was evenly increasing from later August to middle of September. And the following pictures shows the very recent commit history from our group members. We can tell from the pictures that group members were getting more and more active over time by updating their tasks in the group repository and make group website look better day after day. 
 
 
 
